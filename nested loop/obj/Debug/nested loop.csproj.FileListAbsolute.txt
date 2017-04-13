@@ -1,0 +1,5 @@
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.exe.config
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.exe
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.pdb
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\obj\Debug\nested loop.exe
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\obj\Debug\nested loop.pdb
